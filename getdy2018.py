@@ -133,3 +133,4 @@ end = time.clock()
 print('总共耗时:', end - start, '秒')    # 爬取结束，输出爬取时间
 print '总共下载成功 ' + str(i) + '条'
 print '总共下载失败 ' + str(j) + '条'
+
